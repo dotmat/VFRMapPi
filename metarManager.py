@@ -100,7 +100,7 @@ print('Going Purple')
 allLEDs('PURPLE')
 time.sleep(2)
 
-# I like keeping to the Red,Green,Blue & Extras natative rather than VFR, MVFR, IFR, LIFR. 
+# I like keeping to the Red,Green,Blue & Extras narative rather than VFR, MVFR, IFR, LIFR. 
 
 # Get All the Metars
 print('Getting Metars')
