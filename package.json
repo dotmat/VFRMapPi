@@ -1,0 +1,23 @@
+{
+  "name": "aviationmappi",
+  "version": "0.0.1",
+  "description": "Aviation MapPi, Used to present METAR information to Maps via GPIO Tricolor LEDs",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MapPi",
+    "Aviation",
+    "METAR"
+  ],
+  "author": "Mathew Jeninson",
+  "license": "MIT",
+  "dependencies": {
+    "onoff": "^6.0.1",
+    "pubnub": "^4.29.11",
+    "rpi-gpio": "^2.1.7",
+    "simple-get": "^4.0.0",
+    "tiny-json-http": "^7.3.0"
+  }
+}
